@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Guillermo Campollo
+- 👀 I’m interested in Data, ML, devops and software dev
+- 🌱 I’m currently learning spark, GO, JS, kubernetes and have planned to learn more about AWS services like EMR, Lambda and Redshift
+- 💞️ I’m looking to collaborate on any ML project with social impact
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/guillermo-campollo-ramirez-66aa481a7/
