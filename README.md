@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guillermo Campollo.
 - 👀 I’m interested in web development backend/frontend, data and ML.
-- 🌱 I’m currently using JS/React, Express.js, Python/Django/Flask, docker, etc. I want to learn more about cloud computing specially using AWS (devops/data-engineer).
+- 🌱 I’m currently using Python/Django/Flask, JS/React, docker, etc. I want to learn more about cloud computing specially using AWS (devops/data-engineer).
 - 💞️ I’m looking to collaborate on projects with social impact and where I can work with people that help me to grow and viceversa.
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/guillermo-campollo-ramirez-66aa481a7/
